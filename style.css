@@ -1,0 +1,103 @@
+body
+{
+  background-image: url("Shaco.jpg");
+  background-attachment: fixed;
+  background-size: 2100px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+.bc1
+{
+text-align: center;
+}
+.grid-container {
+  display: grid;
+  grid-column-gap: 30px;
+  grid-template-columns: auto auto auto auto auto ;
+  padding: 5px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+h1
+{
+  text-shadow: 2px 2px 4px black;
+  font-size: 50px;
+  color: #ff5050;
+}
+ul
+{
+  font-size: 25px;
+  color: #008FB3;
+  text-shadow: 1px 1px 1px black;
+  background-color: black;
+  opacity: 0.8;
+}
+p
+{
+  font-size: 25px;
+  color: #ff9900;
+  text-shadow: 2px 2px 2px black;
+
+}.list-unstyled {
+
+    padding-left: 0;
+    list-style: none;
+
+}
+ol, ul {
+
+    margin-top: 0;
+    margin-bottom: 10px;
+
+}
+
+.blue-bg {
+
+    color: white;
+
+}
+body {
+
+    font-family: 'Reactor7', monospace;
+    text-shadow: 1px 1px 1px rgba(20,20,20,1);
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+  }
+
+h2
+{
+  text-shadow: 2px 2px 4px black;
+  font-size: 30px;
+  color: #ff5050;
+  width: 100%;
+  box-shadow: 0.5px 0.5px #8533ff, 0.5em 0 0.7em #8533ff, -0.5em 0 0.7em #8533ff;
+
+}
+.starter-template {
+
+  padding: 40px 40px;
+
+  text-align: center;
+}
+#dev1{
+  color: #8533ff;
+  font-size: 50px;
+  text-align: center;
+}
+li{
+  opacity: 0.9
+}
+.ofset-3{
+  text-align: center;
+}
+.nav{
+  background-color: #00141A
+}
